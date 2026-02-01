@@ -1,4 +1,6 @@
-# 淘小宝 - 类似淘宝的基础电商应用
+# liuxiang_1986 - 淘小宝电商应用
+
+测试可用
 
 这是一个使用Next.js、TypeScript和Tailwind CSS构建的基础电商应用，模仿了淘宝的主要功能和界面。
 
@@ -28,8 +30,8 @@
 
 1. 克隆项目：
    ```bash
-   git clone https://github.com/mcartney-liu/MoltBot.git
-   cd MoltBot
+   git clone https://github.com/mcartney-liu/liuxiang_1986.git
+   cd liuxiang_1986
    ```
 
 2. 安装依赖：
